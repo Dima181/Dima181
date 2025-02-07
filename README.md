@@ -6,7 +6,6 @@
 This libraries is currently under active development.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dima181&repo=TowersWorld)](https://github.com/Dima181/TowersWorld.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dima181&repo=TestTaskForCompany)](https://github.com/Dima181/TestTaskForCompany.git)
 <!--
 **Dima181/Dima181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
